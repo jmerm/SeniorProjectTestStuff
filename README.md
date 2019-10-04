@@ -1,2 +1,2 @@
-# SeniorProjectTestStuff
- random code for llearning python guis
+# Random Programs for learning GUIS
+Random stuff who knows what will end up on here
